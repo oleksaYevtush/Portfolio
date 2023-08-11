@@ -45,7 +45,7 @@ body {
 	height: 100vh;
 }
 .container {
-	padding: 0 4vw;
+	padding: 0 50px;
   margin: 0 auto;
   max-width: 1200px;
 }
@@ -455,6 +455,7 @@ a:hover  {
   align-items: center;
   row-gap: 40px;
   text-align: center;
+  padding-bottom: 80px;
 }
 
 .content-list__item {
